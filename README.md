@@ -1,4 +1,4 @@
-Thia repository holds my portfolio projects.
+This repository holds my portfolio projects.
 
 1-the first project is about analysing Covid-19 infections around the world using SQL.
 
